@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/empiric-u7/Documents/vansita/Dapps/HardHat_Project/contracts/TaskManager.sol": {
+      "lastModificationDate": 1730702106644,
+      "contentHash": "a3ff2b00056c80a31beb8bcee2939ae3",
+      "sourceName": "contracts/TaskManager.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.27"
+      ],
+      "artifacts": [
+        "TaskManager"
+      ]
+    }
+  }
+}
